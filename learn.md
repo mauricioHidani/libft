@@ -1,8 +1,22 @@
 # Aprendizado [Libft]
-🚩_42 School [São Paulo]_ \
-📆_Monday, 21 July 2025_ - 📌_São Paulo, Brazil_
+🚩*42 School [São Paulo]* \
+📆*Monday, 21 July 2025* - 📌*São Paulo, Brazil*
 
-## Manipulate string
+## Summary
+1. [Manipulate string](#manipulate-string) \
+	1.1. [ft_strlen](#ft_strlen) \
+	1.2. [ft_strlcpy](#ft_strlcpy) \
+	1.3. [ft_strlcat](#ft_strlcat) \
+	1.4. [ft_strchr](#ft_strchr) \
+	1.5. [ft_strrchr](#ft_strrchr) \
+	1.6. [ft_strncmp](#ft_strncmp) \
+	1.7. [ft_strmapi](#ft_strmapi) \
+	1.8. [ft_strnstr](#ft_strnstr)
+2. [Manipulate Memory](#manipulate-memory) \
+	1.1. [ft_calloc](#ft_calloc) \
+	1.2. [ft_strdup](#ft_strdup)
+
+## Manipulate String
 
 ### [ft_strlen]()
 
@@ -10,7 +24,7 @@ Pega o tamanaho de uma string.
 
 **Parâmetros**
 
-- `str`: String que contém o conteúdo que será contado para determinar o seu
+`str`: String que contém o conteúdo que será contado para determinar o seu
 tamanho.
 
 **Retorno**
@@ -24,23 +38,75 @@ Get the length of string.
 
 **Parameters**
 
-- `str`: String containing the content that will be counted to determine its 
+`str`: String containing the content that will be counted to determine its 
 length.
 
 **Returns**
 
 Length of string.
 </details>
+<hr style="background-color: #333; border: none;"></hr>
 
 ### [ft_strlcpy]()
-
 
 
 <details>
 <summary>English</summary>
 
 </details>
+<hr style="background-color: #333; border: none;"></hr>
 
+### [ft_strlcat]()
+
+<details>
+<summary>English</summary>
+
+</details>
+<hr style="background-color: #333; border: none;"></hr>
+
+### [ft_strchr]()
+
+<details>
+<summary>English</summary>
+
+</details>
+<hr style="background-color: #333; border: none;"></hr>
+
+### [ft_strrchr]()
+
+<details>
+<summary>English</summary>
+
+</details>
+<hr style="background-color: #333; border: none;"></hr>
+
+### [ft_strncmp]()
+
+<details>
+<summary>English</summary>
+
+</details>
+<hr style="background-color: #333; border: none;"></hr>
+
+### [ft_strmapi]()
+
+<details>
+<summary>English</summary>
+
+</details>
+<hr style="background-color: #333; border: none;"></hr>
+
+### [ft_strnstr]()
+
+<details>
+<summary>English</summary>
+
+</details>
+<hr style="background-color: #333; border: none;"></hr>
+
+---
+
+## Manipulate Memory
 
 ### [ft_calloc]()
 
@@ -84,3 +150,12 @@ memory.
 
 Allocated memory spaces with all its values set to zero.
 </details>
+<hr style="background-color: #333; border: none;"></hr>
+
+### [ft_strdup]()
+
+<details>
+<summary>English</summary>
+
+</details>
+<hr style="background-color: #333; border: none;"></hr>
